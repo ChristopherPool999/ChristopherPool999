@@ -1,5 +1,9 @@
-Hi, my name is Christopher Pool and I’m interested in full-stack web development.
+Hello, my name is Chris Pool, nice to meet you! I am working towards becoming a front-end, and eventually full-stack, web developer. 
 
-I’m currently learning front-end development. While I have a good base knowledge of how to make a front-end website, I'm specifically trying to improve on UX, best practices, and optimization at the moment. As well as other more specific front-sided things such as forms, video players, SEO, search algorithms, API post requests, and more. 
+Currently I spend most of my time building front-sided websites in hopes of an internship or even possibly a permanent role in the near future 😅. 
 
-Feel free to reach out to me @ chrispool228@gmail.com
+Please take a look at some of my projects! It's very encouraging knowing employers are willing to take them into consideration which really helps motivate me to continue learning and trying to be the best I can be! 
+
+Hopefully we might be able to work together some time in the future. Thanks again for checking out my Github!
+
+Best method of contact: chrispool228@gmail.com
